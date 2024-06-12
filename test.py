@@ -1,7 +1,7 @@
 import streamlit as st
 
 def main():
-    st.title("Julka, prosim zavezies nas na kviz?")
+    st.title("test of a cat pic?")
 
     # Displaying the image of the cat
     cat_image = "https://i.imgflip.com/5wdad.jpg?a477120"
